@@ -3,7 +3,7 @@ import styles from './layout.module.css'
 import utilStyles from '../styles/utils.module.css'
 import Link from 'next/link'
 
-const name = 'Your Name'
+const name = 'Amit Chhatbar'
 export const siteTitle = 'Amit Chhatbar Nextjs Demo'
 
 export default function Layout({ children, home }) {
